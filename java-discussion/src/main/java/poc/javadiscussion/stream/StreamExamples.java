@@ -1,4 +1,4 @@
-package poc.javadiscussion.threads;
+package poc.javadiscussion.stream;
 
 import java.util.Arrays;
 import java.util.Comparator;
